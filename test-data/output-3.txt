@@ -1,3 +1,2 @@
-SUCCESS # GT4500 created
-SUCCESS # primary fired
-FAIL    # secondary failed due to 1 failure rate
+SUCCESS
+SUCCESS

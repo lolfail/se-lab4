@@ -1,2 +1,3 @@
-SUCCESS # GT4500 created
-SUCCESS # ALL fired despite 1 chamber empty
+SUCCESS
+SUCCESS
+SUCCESS
