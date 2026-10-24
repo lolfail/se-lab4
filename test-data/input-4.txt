@@ -1,0 +1,3 @@
+# fire ALL success despite only 1 fires
+GT4500,1,0,0,0
+TORPEDO,ALL

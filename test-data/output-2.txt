@@ -1,0 +1,2 @@
+SUCCESS # GT4500 created
+SUCCESS # secondary fired instead of primary
